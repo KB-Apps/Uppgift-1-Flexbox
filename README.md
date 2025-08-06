@@ -4,7 +4,7 @@
 
 Skapa en app som ser ut likt bifogad bild. 
 Layout görs med "FlexBox".<br/>
-Programmeringspråk: TypeScript med React Native i VS Code.
+React Native i VS Code.
 
 <img src="./assets/Uppgift_1.png" alt="" width="200">
 
